@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicauviim.wireless2020.de/sitemap.xml
